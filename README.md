@@ -20,8 +20,12 @@ This repo contains the solution to real life challenges from <a href="https://ww
   </thead>
   <tbody>
     <tr>
-	  <td>Blog preview card</td>
-	  <td><i>Build a blog preview card webpage</i></td>
+	    <td>
+        <a href="https://github.com/Huclark/frontend-mentor-challenges/tree/main/blog-preview-card-main">
+        Blog preview card
+        </a>
+      </td>
+	    <td><i>Build a blog preview card webpage</i></td>
 	</tr>
   </tbody>
 </table>
