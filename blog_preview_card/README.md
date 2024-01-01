@@ -70,6 +70,7 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+<!-- - Website - [Add your name here](https://www.your-site.com) -->
+
 - Frontend Mentor - [@Huclark](https://www.frontendmentor.io/profile/Huclark)
 - Twitter - [@huclark\_](https://www.twitter.com/huclark_)
