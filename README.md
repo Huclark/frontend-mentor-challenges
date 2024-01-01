@@ -21,7 +21,7 @@ This repo contains the solution to real life challenges from <a href="https://ww
   <tbody>
     <tr>
 	  <td>Blog preview card</td>
-	  <td>Build a blog preview card webpage</td>
+	  <td><i>Build a blog preview card webpage</i></td>
 	</tr>
   </tbody>
 </table>
