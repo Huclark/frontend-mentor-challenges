@@ -21,7 +21,7 @@ This repo contains the solution to real life challenges from <a href="https://ww
   <tbody>
     <tr>
 	    <td>
-        <a href="https://github.com/Huclark/frontend-mentor-challenges/tree/main/blog-preview-card-main">
+        <a href="https://github.com/Huclark/frontend-mentor-challenges/tree/main/blog_preview_card">
         Blog preview card
         </a>
       </td>
