@@ -11,8 +11,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -25,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot of my solution](./assets/images/my_solution.jpg)
 
 ### Links
 
@@ -41,32 +39,22 @@ Users should be able to:
 
 ### What I learned
 
-<!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Of all the things I learnt and implemented, being able to create a transition upon the cursor hovering on the element was what stood out for me.
 
-To see how you can add code snippets, see below:
+Here's the code snippet of how i implemented the hover effect:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.text-link {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.4s;
+}
+
+.text-link:hover {
+  color: hsl(47, 88%, 63%);
+  transition-delay: 0.2s;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-``` -->
-
-### Continued development
-
-<!-- Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect. -->
-
-### Useful resources
-
-<!-- - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept. -->
 
 ## Author
 
